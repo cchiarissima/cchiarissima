@@ -8,5 +8,5 @@ Here you can find:\
 &emsp; 🌐 experiments in web development. 
 
 ---
-- Read me at https://cchiarissima.btw.so/
-- Write to me at chiarissima37@gmail.com
+- Find my blog [here](https://cchiarissima.btw.so/)
+- Reach me at chiarissima37@gmail.com
