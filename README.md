@@ -7,5 +7,6 @@ Here you can find:\
 &emsp; 🤖 machine learning projects and walkthroughs\
 &emsp; 🌐 experiments in web development. 
 
-
-Reach me at chiarissima37@gmail.com
+---
+- Read me at https://cchiarissima.btw.so/
+- Write to me at chiarissima37@gmail.com
