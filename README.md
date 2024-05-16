@@ -5,7 +5,7 @@ I am Chiara, a Computer Science + Cognitive Science student.
 Here you can find:\
 &emsp; 🗂️ a database of coding exercises/tutorials in different languages\
 &emsp; 🤖 machine learning projects and walkthroughs\
-&emsp; 🌐 experiments in web development. 
+&emsp; 🌐 experiments in web development
 
 ---
 - Find my blog [here](https://cchiarissima.btw.so/)
