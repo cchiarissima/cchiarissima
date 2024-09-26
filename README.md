@@ -7,6 +7,4 @@ Here you can find ([index](https://github.com/cchiarissima/navigation)):\
 &emsp; 🤖 machine learning projects and walkthroughs\
 &emsp; 🌐 experiments in web development
 
----
-- Find my blog [here](https://cchiarissima.btw.so/)
-- Reach me at chiarissima37@gmail.com
+
